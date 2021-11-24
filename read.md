@@ -2,7 +2,7 @@
 
 <p align="center">Esse projeto é um desafio do curso Programador BR - módulo HTML Básico, ao qual foi elaborado um currículo</p>
 
-> <p align="center">
+<p align="center">
   <a href="#objetivo">Objetivo</a> |
   <a href="#features">Features</a> |
   <a href="#preview">Preview</a>
