@@ -19,23 +19,20 @@
 
 # Features
 
-_ [X] Criar estrutura HTML
++ [X] Criar estrutura HTML
++ [X] Utilizar Tag h
 
-_ [X] Utilizar Tag h
++ [X] Utilizar Tag de parágrafo
 
-_ [X] Utilizar Tag de parágrafo
++ [X] Utilizar Tag de imagem
 
-_ [X] Utilizar Tag de imagem
++ [X] Utilizar Tag de lista
 
-_ [X] Utilizar Tag de lista
++ [X] Utilizar Tag de lista
 
-_ [X] Utilizar Tag de lista
-
-_ [X] Utilizar Tags semânticas
++ [X] Utilizar Tags semânticas
 
 
 # Preview
 
-<h1>
-  <img src="./assets/preview.png" alt="Imagem do currículo">
-</h1>
+![preview](https://user-images.githubusercontent.com/68918326/143323587-f0c6b023-7268-42e8-bc8c-f2a7d64f0ba1.PNG)
