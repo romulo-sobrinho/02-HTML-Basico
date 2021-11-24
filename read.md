@@ -21,15 +21,10 @@
 
 + [X] Criar estrutura HTML
 + [X] Utilizar Tag h
-
 + [X] Utilizar Tag de parágrafo
-
 + [X] Utilizar Tag de imagem
-
 + [X] Utilizar Tag de lista
-
 + [X] Utilizar Tag de lista
-
 + [X] Utilizar Tags semânticas
 
 
