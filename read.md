@@ -36,4 +36,6 @@ _ [X] Utilizar Tags semânticas
 
 # Preview
 
-<img src="./assets/preview.png" alt="Imagem do currículo">
+<h1>
+  <img src="./assets/preview.png" alt="Imagem do currículo">
+</h1>
