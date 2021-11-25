@@ -24,7 +24,7 @@
 + [X] Utilizar Tag de parágrafo
 + [X] Utilizar Tag de imagem
 + [X] Utilizar Tag de lista
-+ [X] Utilizar Tag de lista
++ [X] Utilizar Tag de tabela
 + [X] Utilizar Tags semânticas
 
 
